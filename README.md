@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=✋%20I'm%20Bumsu!%20✋&fontSize=50&fontColor=ffffff )  
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+will+be+a+steady+developer)](https://git.io/typing-svg)  
 
 <br>
@@ -38,16 +36,21 @@
 ## Contact📫
 <div align=center>
           <a href="mailto:bumsu01@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bumsu01@gmail.com"> </a>
-  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-e093714d272f42ada0f0dadf588ca957"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> </a>
+  <a href="https://blog.naver.com/bumsu01"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=green&link=https://blog.naver.com/bumsu01"> </a>
 
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbumsu01%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbumsu01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ## Github-stats ⏲️  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumsu01&langs_count=8)](https://github.com/bumsu01/github-readme-stats)
-![bumsu01's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical)
+<div align=center>
+<a href="https://github.com/bumsu01">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/bumsu01">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bumsu01&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
 
 ## ACM-ICPC :blue_book:
