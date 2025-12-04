@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=✋%20I'm%20Bumsu!%20✋&fontSize=50&fontColor=ffffff )  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+will+be+a+steady+developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+develop+what+I+want+to+make)](https://git.io/typing-svg)
 
 <br>
 
@@ -44,12 +44,7 @@
 
 ## Github-stats ⏲️  
 <div align=center>
-<a href="https://github.com/bumsu01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/bumsu01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bumsu01&layout=compact&langs_count=8&card_width=320" />
-</a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical)
 </div>
 
 
