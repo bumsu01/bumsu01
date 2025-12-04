@@ -43,7 +43,9 @@
 
 ## Github-stats ⏲️  
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=bumsu01&theme=radical)](https://git.io/streak-stats)
+ <a href="https://github.com/bumsu01">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=bumsu01&theme=radical" />
+</a>
 </div>
 
 
