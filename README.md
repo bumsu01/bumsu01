@@ -39,12 +39,11 @@
   <a href="https://blog.naver.com/bumsu01"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=green&link=https://blog.naver.com/bumsu01"> </a>
 
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbumsu01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ## Github-stats ⏲️  
 <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical)](https://github.com/bumsu01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bumsu01&theme=radical)](https://git.io/streak-stats)
 </div>
 
 
