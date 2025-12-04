@@ -44,7 +44,7 @@
 
 ## Github-stats ⏲️  
 <div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsu01&show_icons=true&theme=radical)](https://github.com/bumsu01)
 </div>
 
 
